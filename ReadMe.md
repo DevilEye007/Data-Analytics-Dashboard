@@ -35,10 +35,17 @@ It allows users to **import, explore, filter, and visualize** CSV/Excel data int
 
 ##  Interface Preview
 
-<table align="center"> <tr> <td align="center"> 
-    <img src="images/001.png" width="400"/><br/> <b>🏠 Dashboard Overview</b> </td> 
-    <td align="center"> 
-    <img src="images/002.png" width="400"/><br/> <b>📊 Chart Visualization Tab</b> </td> </tr> <tr> 
+<table align="center"> 
+    <tr>
+        <td align="center"> 
+            <img src="images/001.png" width="400"/><br/> 
+            <b>Dashboard Overview</b> 
+        </td> 
+        <td align="center"> 
+            <img src="images/002.png" width="400"/><br/> 
+            <b>Chart Visualization Tab</b> 
+        </td> 
+    <tr> 
 </table>
 
 ```
