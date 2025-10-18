@@ -1,0 +1,6 @@
+PyQt5
+pandas
+matplotlib
+seaborn
+openpyxl
+xlrd
