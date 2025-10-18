@@ -91,7 +91,7 @@ python main.py
 **Faizan Sultan**
 IT Student | Data Science & Python Developer
 Pasrur, Punjab
-[LinkedIn](#) • [GitHub](https://github.com/DevilEye007)
+[LinkedIn](https://www.linkedin.com/in/faizan-sultan-302b1b24b) • [GitHub](https://github.com/DevilEye007)
 
 ---
 
